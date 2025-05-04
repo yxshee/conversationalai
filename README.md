@@ -124,3 +124,4 @@ This project is licensed under the [MIT License](LICENSE).
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork the repository and submit pull requests.
 
+---
