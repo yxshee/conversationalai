@@ -42,25 +42,13 @@ nlp-conversational-ai/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nlp-conversational-ai.git
+git clone <your-fork-or-clone-url>
 cd nlp-conversational-ai
 ```
 
 ### 2. Install Requirements
 
-Most notebooks require Python 3.7+ and the following libraries:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-f7931e?logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-9C27B0?logo=nltk)
-![Seaborn](https://img.shields.io/badge/-Seaborn-43b02a?logo=seaborn)
-![Missingno](https://img.shields.io/badge/-missingno-00bcd4)
-![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?logo=plotly)
-
-Install them using pip:
+Install the required Python libraries:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn nltk seaborn missingno plotly
@@ -84,31 +72,22 @@ Navigate to the `notebooks/` directory and start exploring!
 
 ## 🧭 Learning Path
 
-<details>
-<summary><strong>Click to expand the recommended learning journey!</strong></summary>
-
-1. <img src="https://img.icons8.com/color/48/000000/numpy.png" width="20"/> **NumPy & Pandas:**  
-   Start with the basics of numerical and tabular data manipulation.
-
-2. <img src="https://img.icons8.com/color/48/000000/text.png" width="20"/> **Text Preprocessing:**  
-   Learn how to clean and prepare text data for NLP tasks.
-
-3. <img src="https://img.icons8.com/color/48/000000/feature-extraction.png" width="20"/> **Feature Engineering:**  
-   Explore methods to convert text into numerical features (TDM, TF-IDF, etc.).
-
-4. <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="20"/> **Modeling:**  
-   Apply machine learning models for classification, regression, and conversational AI.
-
-5. <img src="https://img.icons8.com/color/48/000000/experimental-data.png" width="20"/> **Advanced Topics:**  
+1. **NumPy & Pandas:**  
+   Learn the basics of numerical and tabular data manipulation.
+2. **Text Preprocessing:**  
+   Clean and prepare text data for NLP tasks.
+3. **Feature Engineering:**  
+   Extract and select features for machine learning models.
+4. **Model Building:**  
+   Implement and evaluate models for classification and regression.
+5. **Advanced Topics:**  
    Outlier analysis, feature selection, and more.
-
-</details>
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ---
 
