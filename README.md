@@ -1,16 +1,5 @@
 # NLP Conversational AI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python Version" height="20"/>
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" height="20"/>
-</p>
-
-
-
----
-
-## 🚀 Overview
-
 **NLP Conversational AI** is a hands-on, visual, and interactive repository for learning and experimenting with Natural Language Processing (NLP) techniques, focusing on building conversational AI systems. Explore a wide range of topics, from basic preprocessing to advanced feature engineering and model building, all through well-documented Jupyter notebooks and code samples.
 
 ---
