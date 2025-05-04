@@ -5,9 +5,7 @@
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" height="20"/>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/183869728-89a5c2b1-3e5d-4e7e-b8c2-4a8e0b2e4b8a.png" alt="NLP Banner" width="600"/>
-</p>
+
 
 ---
 
@@ -92,43 +90,6 @@ jupyter lab
 ```
 
 Navigate to the `notebooks/` directory and start exploring!
-
----
-
-## 👀 Visual Guide
-
-### NumPy Array Creation
-
-```python
-import numpy as np
-a = np.arange(10)
-print(a)
-```
-
-<p align="center">
-  <img src="https://numpy.org/doc/stable/_images/np_arange.png" alt="NumPy Array Example" width="400"/>
-</p>
-
----
-
-### Text Preprocessing Workflow
-
-```mermaid
-graph TD
-    A[Raw Text Corpus] --> B[Normalization]
-    B --> C[Tokenization]
-    C --> D[Stopword Removal]
-    D --> E[Stemming/Lemmatization]
-    E --> F[Feature Matrix]
-```
-
----
-
-### Typical Data Science Pipeline
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/183869728-89a5c2b1-3e5d-4e7e-b8c2-4a8e0b2e4b8a.png" alt="Data Science Pipeline" width="600"/>
-</p>
 
 ---
 
