@@ -1,4 +1,4 @@
-# NLP Conversational AI
+# Conversational AI
 
 **NLP Conversational AI** is a hands-on, visual, and interactive repository for learning and experimenting with Natural Language Processing (NLP) techniques, focusing on building conversational AI systems. Explore a wide range of topics, from basic preprocessing to advanced feature engineering and model building, all through well-documented Jupyter notebooks and code samples.
 
